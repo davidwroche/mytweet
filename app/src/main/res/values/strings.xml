@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyTweet</string>
+    <string name="welcomeMessage">Welcome to MyTweet</string>
+    <string name="welcomeSubMsg">Let the world know whats happening! Sign in or Login in below!</string>
+    <string name="welcome_SignBut">Sign UP</string>
+    <string name="welcome_LogBut">Login</string>
+    <string name="signupMyTweet">Sign up to MyTweet</string>
+    <string name="signfirstName">First Name</string>
+    <string name="signlastName">Last Name</string>
+    <string name="signEmail">Email</string>
+    <string name="signPassword">Password</string>
+    <string name="loginEmail">Email</string>
+    <string name="loginPassword">Password</string>
+    <string name="loginButton">Login</string>
+    <string name="tweetContact">Contact</string>
+    <string name="tweetEmail">Email</string>
+    <string name="submitTweet">Tweet</string>
+    <string name="tweetCount">140</string>
+    <string name="tweetDate"></string>
+    <string name="tweetMessage">What\'s on your mind?</string>
+    <string name="tweetUser">Welcome back </string>
+    <string name="tweet_list_item_message"></string>
+    <string name="tweet_list_item_date"></string>
+    <string name="action_settings">Settings</string>
+    <string name="action_clear">Clear</string>
+    <string name="plus_sign">Tweet</string>
+    <string name="delete_tweets">Delete Tweets</string>
+    <string name="newPassword">Enter your new password</string>
+    <string name="update">update</string>
+    <string name="newUsername">What\'s your new email?</string>
+</resources>
